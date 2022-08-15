@@ -1,0 +1,37 @@
+Package Deliveries UI Manual:
+
+Operation1: List all Packages.
+Packages can be viewed at center of the package deliveries tracker (main) page of interface. If a package cannot be seen, use the scrollpane to scroll to bottom in order to see it.
+Packages are sorted based on their delivery date ascending. 
+If there are no packages, it is displayed: “No overdue packages to show.”
+
+
+Operation2: Add a Package.
+In first page (package deliveries tracker (main) page) of interface, click on Add Package and in the new window opened select the type of package you want. Based on type of package,
+some fields will appear that are asked from you to fill them. Only the notes section can be empty, do not leave other section empty or the system will give a warning upon creation
+of new package. Set a name, note, weight, price, delivery date, and a field specific based on package, then click Create to have your package created and added to package deliveries page.
+You can go back to main in page in one of the two ways: click on X to top right hand side, or click the cancel button in bottom. 
+
+Operation3: Remove a Package.
+To remove a package click on remove button on the bottom right hand side of each package in package deliveries page, and that should remove the package.
+
+
+Operation4: List Overdue Packages.
+On top left corner of main page(package deliveries), click on second tab to see a view of all undelivered packages with expected delivery date
+before the current date (and time), ordered by their expected delivery dates (oldest first).
+If there are no packages, it is displayed: “No overdue packages to show.”
+
+
+
+Operation5: List Upcoming Packages.
+On top left corner of main page(package deliveries), click on third tab to see a view of all overdue packages undelivered packages with expected delivery date
+on or after the current date (and time), ordered by their expected delivery dates (oldest first).
+If there are no packages, it is displayed: “No overdue packages to show.”
+
+
+Operation 6: Mark package as delivered.
+To mark a package as delivered click on toggle button on the bottom right hand side of each package in package deliveries page. You might want to untoggle to make it
+undelivered once again. This changes should reflect on Operation 4 and 5 respectively, as those operations view only the undelivered packages.
+
+Operation 7: Exit.
+When done, click on X to top right hand side to close the application. The list of packages should be saved automatically and be loaded next time you open it.  
